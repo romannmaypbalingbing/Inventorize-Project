@@ -1,2 +1,2 @@
-# Vending-Machine-Inventory
-- OOP Project
+# Inventorize
+- Computer Programming 2 Project
